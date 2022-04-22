@@ -1,5 +1,5 @@
 import PIL.Image
- 
+
 img_flag = True
 path = input("parts/frames/frame0.jpg")
  
